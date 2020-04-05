@@ -1,0 +1,38 @@
+https://sites.google.com/site/reflection4learning/why-reflect
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+    I allowed me to see where the my change was made and also I could focus only on the cahnges I made
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I am a better programmer because I can see the changes I made in the code in the past and can "evolve" in the way 
+I program learning from redundancy I made and from mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+    Pros: -I can save when somthing is "ready".
+        - Unnecessary changes are not commited.
+        -I don´t have a big history of changes for every little change.
+    Cons: -Experience dict when to commit a change.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+Because the functionality of a the code could be related and the logic involves more than one file.
+
+
+How can you use the commands git log and git diff to view the history of files?
+I can search through the changes made in the history with the git log and then I can compare
+or check the changes made with the command git diff to see the changes between two versions,
+ a easy way is selecting only the first 4 or more digits in the commit id
+
+ How might using version control make you more confident to make changes that could break something?
+    Because I can return in the time and versions of the code where everything was working fine
+
+Commands: 
+git log: show history
+git reflog: show all the commits checked out recnetly
+git clone: to dwonload the code
+git reset ­­--hard: To remove local cahnges
+git status:
+q: to exit
+git config --global color.ui auto: to give colors
