@@ -33,6 +33,8 @@ git log: show history
 git reflog: show all the commits checked out recnetly
 git clone: to dwonload the code
 git reset ­­--hard: To remove local cahnges
+git reset: remove file from stage area
 git status:
 q: to exit
 git config --global color.ui auto: to give colors
+git commit -m "Commit message
