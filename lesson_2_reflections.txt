@@ -11,6 +11,9 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    After each particular change I can use the staging area to include there only the files that changed,
+    when solving a problem, to separe them from the others which changed but are not affecting the current logic. 
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
