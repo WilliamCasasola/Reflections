@@ -38,6 +38,7 @@ git status:
 q: to exit
 git config --global color.ui auto: to give colors
 git commit -m "Commit message
+git diff --staged: Compare the staged files with latest commit
 
 
 https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf
