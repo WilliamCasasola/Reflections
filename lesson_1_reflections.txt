@@ -39,6 +39,14 @@ q: to exit
 git config --global color.ui auto: to give colors
 git commit -m "Commit message
 git diff --staged: Compare the staged files with latest commit
+git show: shows the difference between a commit and its parent, when the parent is unknown
+git gc: activates the garbagge collection 
 
+
+git branch: Shows all the branches
+git branch "name" creates a new branch with that name
+git branch -b "name": creates a branch and checkouts to it at the same time
+git branch -d "name": deletes a label or brand
+git log --graph --oneline "branch1" "branch2": Shows the story line of comiits between 2 branches
 
 https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf
